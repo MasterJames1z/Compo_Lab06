@@ -1,6 +1,6 @@
 version: "3.9"
 services:
-  web:
-    image: "worawut111/se331-lab06-v2:lastest"
-    ports:
-      - 8001:80
+    web:
+        image: "worawut111/se331-lab06-v2:latest"
+        ports:
+            - 8001:80
